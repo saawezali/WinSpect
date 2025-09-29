@@ -1,0 +1,32 @@
+{
+  "hostname": "DESKTOP-THQ00VP",
+  "os_info": {
+    "Caption": "Microsoft Windows 10 Home",
+    "Version": "10.0.19045",
+    "BuildNumber": "19045",
+    "OSArchitecture": "64-bit",
+    "ServicePackMajorVersion": 0
+  },
+  "installed_software": [
+    {
+      "Name": "Microsoft Edge",
+      "Version": "140.0.3485.66",
+      "Publisher": "Microsoft Corporation"
+    },
+    {
+      "Name": "Microsoft Edge WebView2 Runtime",
+      "Version": "140.0.3485.66",
+      "Publisher": "Microsoft Corporation"
+    },
+    {
+      "Name": "Microsoft Update Health Tools",
+      "Version": "3.74.0.0",
+      "Publisher": "Microsoft Corporation"
+    },
+    {
+      "Name": "Update for Windows 10 for x64-based Systems (KB5001716)",
+      "Version": "8.94.0.0",
+      "Publisher": "Microsoft Corporation"
+    }
+  ]
+}
